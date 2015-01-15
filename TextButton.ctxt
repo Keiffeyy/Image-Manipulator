@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=TextButton(java.lang.String)
+comment0.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ at\ the\ default\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ \r\n
+comment1.params=text\ textSize
+comment1.target=TextButton(java.lang.String,\ int)
+comment1.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ and\ a\ specified\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ @param\ textSize\ \ size\ of\ text,\ as\ an\ integer\r\n\ \r\n
+comment2.params=text
+comment2.target=void\ update(java.lang.String)
+comment2.text=\r\n\ Change\ the\ text\ displayed\ on\ this\ Button\r\n\ \r\n\ @param\ \ \ text\ \ \ \ String\ to\ display\r\n\ \r\n
+numComments=3
